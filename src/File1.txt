@@ -5,3 +5,7 @@ This is my code
 OK Small program
 
 Some more changes here
+
+
+merge-test
+Line1
